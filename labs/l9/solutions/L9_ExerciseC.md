@@ -4,4 +4,4 @@
 
 ![Alt text](/labs/l9/n8nC-s2.png)
 ![Alt text](/labs/l9/n8nC-prob1.png)
-2- I added the nodes and added notes.txt in /data but it doesn't work and n8n says it's not writable :(
+2- I added the nodes and added notes.txt in /data but it doesn't work because of the newest version of n8n.
